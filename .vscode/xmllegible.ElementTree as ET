@@ -1,0 +1,2 @@
+import xml.etree.ElementTree as ET
+tree = ET.parse('deportes.futbol.eliminatorias.ficha.2381818.xml')

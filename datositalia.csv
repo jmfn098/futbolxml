@@ -1,0 +1,150 @@
+Tabla de posiciones ; PJ ; G ; E ; P ; GF ; GC ; DF ; Pts;
+Inter;26;19;5;2;63;25;38;62
+Milan;26;17;5;4;50;30;20;56
+Juventus;25;15;7;3;51;21;30;52
+Roma;26;15;5;6;51;38;13;50
+Atalanta;26;14;7;5;60;33;27;49
+Napoli;25;15;2;8;55;29;26;47
+Lazio;25;13;4;8;39;35;4;43
+Hellas Verona;26;10;8;8;34;29;5;38
+Sassuolo;25;9;9;7;40;39;1;36
+Sampdoria;26;9;5;12;36;39;-3;32
+Udinese;26;8;8;10;29;34;-5;32
+Bologna;26;7;7;12;33;41;-8;28
+Genoa;26;6;9;11;27;38;-11;27
+Spezia;26;6;8;12;33;47;-14;26
+Fiorentina;26;6;8;12;29;41;-12;26
+Benevento;26;6;8;12;26;48;-22;26
+Cagliari;26;5;7;14;29;43;-14;22
+Torino;24;3;11;10;35;45;-10;20
+Parma;26;2;10;14;23;52;-29;16
+Crotone;26;4;3;19;28;64;-36;15
+Temporada Regular;-;Fecha 26
+Spezia;1; - ;1 ;Benevento;
+Udinese;2; - ;0 ;Sassuolo;
+Juventus;3; - ;1 ;Lazio;
+Roma;1; - ;0 ;Genoa;
+Hellas Verona;0; - ;2 ;Milan;
+Fiorentina;3; - ;3 ;Parma;
+Crotone;4; - ;2 ;Torino;
+Sampdoria;2; - ;2 ;Cagliari;
+Napoli;3; - ;1 ;Bologna;
+Inter;1; - ;0 ;Atalanta;
+Temporada Regular;-;Fecha 27
+Lazio;; vs ;;Crotone - ; - ;fecha:12/03/2021; hora:11:00:00
+Atalanta;; vs ;;Spezia - ; - ;fecha:12/03/2021; hora:16:45:00
+Sassuolo;; vs ;;Hellas Verona - ; - ;fecha:13/03/2021; hora:11:00:00
+Benevento;; vs ;;Fiorentina - ; - ;fecha:13/03/2021; hora:14:00:00
+Genoa;; vs ;;Udinese - ; - ;fecha:13/03/2021; hora:16:45:00
+Bologna;; vs ;;Sampdoria - ; - ;fecha:14/03/2021; hora:08:30:00
+Torino;; vs ;;Inter - ; - ;fecha:14/03/2021; hora:11:00:00
+Parma;; vs ;;Roma - ; - ;fecha:14/03/2021; hora:11:00:00
+Cagliari;; vs ;;Juventus - ; - ;fecha:14/03/2021; hora:14:00:00
+Milan;; vs ;;Napoli - ; - ;fecha:14/03/2021; hora:16:45:00
+Temporada Regular;-;Fecha 28
+Parma;; vs ;;Genoa - ; - ;fecha:19/03/2021; hora:16:45:00
+Crotone;; vs ;;Bologna - ; - ;fecha:20/03/2021; hora:11:00:00
+Spezia;; vs ;;Cagliari - ; - ;fecha:20/03/2021; hora:14:00:00
+Inter;; vs ;;Sassuolo - ; - ;fecha:20/03/2021; hora:16:45:00
+Hellas Verona;; vs ;;Atalanta - ; - ;fecha:21/03/2021; hora:08:30:00
+Juventus;; vs ;;Benevento - ; - ;fecha:21/03/2021; hora:11:00:00
+Udinese;; vs ;;Lazio - ; - ;fecha:21/03/2021; hora:11:00:00
+Sampdoria;; vs ;;Torino - ; - ;fecha:21/03/2021; hora:11:00:00
+Fiorentina;; vs ;;Milan - ; - ;fecha:21/03/2021; hora:14:00:00
+Roma;; vs ;;Napoli - ; - ;fecha:21/03/2021; hora:16:45:00
+
+ Goleadores 
+Cristiano Ronaldo dos Santos Aveiro;20;Juventus
+Romelu Menama Lukaku Bolingoli;18;Inter
+Luis Fernando Muriel Fruto;15;Atalanta
+Ciro Immobile;14;Lazio
+Zlatan Ibrahimovic;14;Milan
+João Pedro Dos Santos Galvão;13;Cagliari
+Lautaro Javier Martínez;13;Inter
+Lorenzo Insigne;13;Napoli
+Andrea Belotti;11;Torino
+Francesco Caputo;11;Sassuolo
+
+ Asistencias 
+Romelu Menama Lukaku Bolingoli;8;Inter
+Sergej Milinkovic Savic;8;Lazio
+Hakan Çalhanoglu;8;Milan
+Henrikh Mkhitaryan;8;Roma
+Luis Fernando Muriel Fruto;7;Atalanta
+Josip Ilicic;7;Atalanta
+Álvaro Borja Morata Martín;7;Juventus
+Antonio Candreva;7;Sampdoria
+Duván Esteban Zapata Banguero;6;Atalanta
+Marcelo Brozovic;6;Inter
+
+ Pases 
+Romelu Menama Lukaku Bolingoli;8;8;100;Inter
+Sergej Milinkovic Savic;8;8;100;Lazio
+Hakan Çalhanoglu;8;8;100;Milan
+Henrikh Mkhitaryan;8;8;100;Roma
+Luis Fernando Muriel Fruto;7;7;100;Atalanta
+Josip Ilicic;7;7;100;Atalanta
+Álvaro Borja Morata Martín;7;7;100;Juventus
+Antonio Candreva;7;7;100;Sampdoria
+Duván Esteban Zapata Banguero;6;6;100;Atalanta
+Marcelo Brozovic;6;6;100;Inter
+
+ Recuperacion 
+Duván Esteban Zapata Banguero;0;Atalanta
+Marco Tumminello;0;Atalanta
+Amad Diallo Traoré;0;Manchester United
+Rafael Tolói;0;Atalanta
+Bosko Sutalo;0;Atalanta
+Marco Sportiello;0;Atalanta
+Giorgio Scalvini;0;Atalanta
+Matteo Ruggeri;0;Atalanta
+Francesco Rossi;0;Atalanta
+Cristian Gabriel Romero;0;Atalanta
+
+ Faltas Cometidas 
+Juraj Kucka;55;Parma
+Sofyan Amrabat;53;Fiorentina
+Tomás Eduardo Rincón Hernández;53;Torino
+Morten Thorsby;49;Sampdoria
+Artur Ionita;48;Benevento
+Cristian Gabriel Romero;47;Atalanta
+Gianluca Mancini;46;Roma
+Antonín Barák;46;Hellas Verona
+Lisandro Magallán;46;Crotone
+Roberto Soriano;45;Bologna
+
+ Faltas Recibidas 
+Rodrigo Javier De Paul;96;Udinese
+Andrea Belotti;90;Torino
+Junior Walter Messias;66;Crotone
+Mattia Zaccagni;65;Hellas Verona
+João Pedro Dos Santos Galvão;64;Cagliari
+Hirving Rodrigo Lozano Bahena;58;Napoli
+Theo Bernard François Hernández;57;Milan
+Josip Ilicic;56;Atalanta
+Juraj Kucka;56;Parma
+Franck Henry Pierre Ribéry;48;Fiorentina
+
+ Tarjetas Amarillas 
+Lorenzo Tonelli;10;Sampdoria
+Giovanni Di Lorenzo;9;Napoli
+Cristian Gabriel Romero;8;Atalanta
+Gianluca Mancini;8;Roma
+Morten Thorsby;8;Sampdoria
+Albin Ekdal;8;Sampdoria
+Tolgay Arslan;8;Udinese
+Federico Ceccherini;8;Hellas Verona
+Julian Jeffrey Gaston Chabot;8;Spezia
+Lisandro Magallán;8;Crotone
+
+ Tarjetas Rojas 
+Gian Piero Gasperini;1;Atalanta
+Aaron Hickey;1;Bologna
+Nikola Milenkovic;1;Fiorentina
+Lucas Martínez Quarta;1;Fiorentina
+Gaetano Castrovilli;1;Fiorentina
+Stefano Sensi;1;Inter
+Antonio Conte;1;Inter
+Carlo Pinsoglio;1;Juventus
+Álvaro Borja Morata Martín;1;Juventus
+Juan Guillermo Cuadrado Bello;1;Juventus

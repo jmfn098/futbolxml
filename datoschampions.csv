@@ -1,0 +1,191 @@
+Tabla de posiciones ; PJ ; G ; E ; P ; GF ; GC ; DF ; Pts;
+Grupo A
+Bayern Múnich;6;5;1;0;18;5;13;16
+Atlético de Madrid;6;2;3;1;7;8;-1;9
+Red Bull Salzburgo;6;1;1;4;10;17;-7;4
+Lokomotiv Moscú;6;0;3;3;5;10;-5;3
+Grupo B
+Real Madrid;6;3;1;2;11;9;2;10
+B. Mönchengladbach;6;2;2;2;16;9;7;8
+Shakhtar Donetsk;6;2;2;2;5;12;-7;8
+Inter;6;1;3;2;7;9;-2;6
+Grupo C
+Manchester City;6;5;1;0;13;1;12;16
+Porto;6;4;1;1;10;3;7;13
+Olympiacos;6;1;0;5;2;10;-8;3
+Olympique de Marsella;6;1;0;5;2;13;-11;3
+Grupo D
+Liverpool;6;4;1;1;10;3;7;13
+Atalanta;6;3;2;1;10;8;2;11
+Ajax;6;2;1;3;7;7;0;7
+Midtjylland;6;0;2;4;4;13;-9;2
+Grupo E
+Chelsea;6;4;2;0;14;2;12;14
+Sevilla;6;4;1;1;9;8;1;13
+Krasnodar;6;1;2;3;6;11;-5;5
+Stade Rennes;6;0;1;5;3;11;-8;1
+Grupo F
+Borussia Dortmund;6;4;1;1;12;5;7;13
+Lazio;6;2;4;0;11;7;4;10
+Club Brujas;6;2;2;2;8;10;-2;8
+Zenit;6;0;1;5;4;13;-9;1
+Grupo G
+Juventus;6;5;0;1;14;4;10;15
+Barcelona;6;5;0;1;16;5;11;15
+Dynamo Kyev;6;1;1;4;4;13;-9;4
+Ferencváros;6;0;1;5;5;17;-12;1
+Grupo H
+PSG;6;4;0;2;13;6;7;12
+RB Leipzig;6;4;0;2;11;12;-1;12
+Manchester United;6;3;0;3;15;10;5;9
+Istanbul Basaksehir;6;1;0;5;7;18;-11;3
+Fase de Grupos;-;Grupo A - Fecha 6
+Red Bull Salzburgo;0; - ;2 ;Atlético de Madrid;
+Bayern Múnich;2; - ;0 ;Lokomotiv Moscú;
+Fase de Grupos;-;Grupo B - Fecha 6
+Inter;0; - ;0 ;Shakhtar Donetsk;
+Real Madrid;2; - ;0 ;B. Mönchengladbach;
+Fase de Grupos;-;Grupo C - Fecha 6
+Olympiacos;0; - ;2 ;Porto;
+Manchester City;3; - ;0 ;Olympique de Marsella;
+Fase de Grupos;-;Grupo D - Fecha 6
+Midtjylland;1; - ;1 ;Liverpool;
+Ajax;0; - ;1 ;Atalanta;
+Fase de Grupos;-;Grupo E - Fecha 6
+Stade Rennes;1; - ;3 ;Sevilla;
+Chelsea;1; - ;1 ;Krasnodar;
+Fase de Grupos;-;Grupo F - Fecha 6
+Lazio;2; - ;2 ;Club Brujas;
+Zenit;1; - ;2 ;Borussia Dortmund;
+Fase de Grupos;-;Grupo G - Fecha 6
+Dynamo Kyev;1; - ;0 ;Ferencváros;
+Barcelona;0; - ;3 ;Juventus;
+Fase de Grupos;-;Grupo H - Fecha 6
+RB Leipzig;3; - ;2 ;Manchester United;
+PSG;5; - ;1 ;Istanbul Basaksehir;
+Octavos de Final;-;Llave 1
+B. Mönchengladbach;0; - ;2 ;Manchester City - ida; - ;fecha:24/02/2021; hora:17:00:00
+Manchester City;; vs ;;B. Mönchengladbach - vuelta; - ;fecha:16/03/2021; hora:17:00:00
+Octavos de Final;-;Llave 2
+Lazio;1; - ;4 ;Bayern Múnich - ida; - ;fecha:23/02/2021; hora:17:00:00
+Bayern Múnich;; vs ;;Lazio - vuelta; - ;fecha:17/03/2021; hora:17:00:00
+Octavos de Final;-;Llave 3
+Atlético de Madrid;0; - ;1 ;Chelsea - ida; - ;fecha:23/02/2021; hora:17:00:00
+Chelsea;; vs ;;Atlético de Madrid - vuelta; - ;fecha:17/03/2021; hora:17:00:00
+Octavos de Final;-;Llave 4
+RB Leipzig;0; - ;2 ;Liverpool - ida; - ;fecha:16/02/2021; hora:17:00:00
+Liverpool;; vs ;;RB Leipzig - vuelta; - ;fecha:10/03/2021; hora:17:00:00
+Octavos de Final;-;Llave 5
+Porto;2; - ;1 ;Juventus - ida; - ;fecha:17/02/2021; hora:17:00:00
+Juventus;; vs ;;Porto - vuelta; - ;fecha:09/03/2021; hora:17:00:00
+Octavos de Final;-;Llave 6
+Barcelona;1; - ;4 ;PSG - ida; - ;fecha:16/02/2021; hora:17:00:00
+PSG;; vs ;;Barcelona - vuelta; - ;fecha:10/03/2021; hora:17:00:00
+Octavos de Final;-;Llave 7
+Sevilla;2; - ;3 ;Borussia Dortmund - ida; - ;fecha:17/02/2021; hora:17:00:00
+Borussia Dortmund;; vs ;;Sevilla - vuelta; - ;fecha:09/03/2021; hora:17:00:00
+Octavos de Final;-;Llave 8
+Atalanta;0; - ;1 ;Real Madrid - ida; - ;fecha:24/02/2021; hora:17:00:00
+Real Madrid;; vs ;;Atalanta - vuelta; - ;fecha:16/03/2021; hora:17:00:00
+Cuartos de Final;-;Llave 1
+Cuartofinalista 5;; vs ;;Cuartofinalista 1 - ida; - ;fecha:06/04/2021; hora:
+Cuartofinalista 1;; vs ;;Cuartofinalista 5 - vuelta; - ;fecha:13/04/2021; hora:
+Cuartos de Final;-;Llave 2
+Cuartofinalista 6;; vs ;;Cuartofinalista 2 - ida; - ;fecha:06/04/2021; hora:
+Cuartofinalista 2;; vs ;;Cuartofinalista 6 - vuelta; - ;fecha:13/04/2021; hora:
+
+ Goleadores 
+Erling Braut Haaland;8;Borussia Dortmund
+Álvaro Borja Morata Martín;6;Juventus
+Olivier Giroud;6;Chelsea
+Marcus Rashford;6;Manchester United
+Neymar da Silva Santos Junior;6;PSG
+Ciro Immobile;5;Lazio
+Alassane Pléa;5;B. Mönchengladbach
+Kylian Mbappé;5;PSG
+Mërgim Berisha;5;Red Bull Salzburgo
+Lionel Andrés Messi Cuccittini;4;Barcelona
+
+ Asistencias 
+Juan Guillermo Cuadrado Bello;5;Juventus
+Kevin De Bruyne;4;Manchester City
+Joshua Walter Kimmich;3;Bayern Múnich
+Alassane Pléa;3;B. Mönchengladbach
+Dusan Tadic;3;Ajax
+Kylian Mbappé;3;PSG
+José Ángel Esmoris Tasende;3;RB Leipzig
+Ángel Martín Correa Martínez;2;Atlético de Madrid
+Lionel Andrés Messi Cuccittini;2;Barcelona
+Anssumane Fati;2;Barcelona
+
+ Pases 
+Rúben Santos Gato Alves Dias;476;491;96;Manchester City
+Raphaël Xavier Varane;499;523;95;Real Madrid
+Toni Kroos;552;583;94;Real Madrid
+Diego Carlos Santos Silva;432;459;94;Sevilla
+Miralem Pjanic;522;561;93;Barcelona
+Rodrigo Hernández Cascante;440;475;92;Manchester City
+Raphaël Adelino José Guerreiro;397;436;91.055;Borussia Dortmund
+Luka Modric;446;486;91;Real Madrid
+Lucas Vázquez Iglesias;442;491;90;Real Madrid
+David Olatukunbo Alaba;394;440;89;Bayern Múnich
+
+ Recuperacion 
+Carlos Henrique Casimiro;22;Real Madrid
+Diego Carlos Santos Silva;21;Sevilla
+Florian Neuhaus;21;B. Mönchengladbach
+Miralem Pjanic;17;Barcelona
+Fernando Francisco Reges;17;Sevilla
+Clément Lenglet;16;Barcelona
+Luka Modric;16;Real Madrid
+Remo Freuler;16;Atalanta
+Jorge Luiz Frello Jorginho;16;Chelsea
+Ilya Zabarnyi;16;Dynamo Kyev
+
+ Faltas Cometidas 
+Frank Onyeka;21;Midtjylland
+Otávio Edmilson da Silva Monteiro;16;Porto
+Enock Mwepu;15;Red Bull Salzburgo
+Lucas Vázquez Iglesias;14;Real Madrid
+Danilo Luiz da Silva;14;Juventus
+Zlatko Junuzovic;14;Red Bull Salzburgo
+Frederico Rodrigues de Paula Santos;13;Manchester United
+Mohamed Mady Camara;13;Olympiacos
+Kevin Kampl;13;RB Leipzig
+Miralem Pjanic;12;Barcelona
+
+ Faltas Recibidas 
+Neymar da Silva Santos Junior;24;PSG
+Moussa Marega;20;Porto
+Anthony Joran Martial;19;Manchester United
+Frank Onyeka;18;Midtjylland
+Yussuf Yurary Poulsen;18;RB Leipzig
+João Félix Sequeira;17;Atlético de Madrid
+Jesús Manuel Corona Ruiz;16;Porto
+Álvaro Borja Morata Martín;15;Juventus
+Mohamed Camara;15;Red Bull Salzburgo
+Bengt Erik Marcus Berg;15;Krasnodar
+
+ Tarjetas Amarillas 
+Carlos Henrique Casimiro;3;Real Madrid
+Joan Jordán Moreno;3;Sevilla
+Arturo Erasmo Vidal Pardo;3;Inter
+Roberto Gagliardini;3;Inter
+Merih Demiral;3;Juventus
+Danilo Luiz da Silva;3;Juventus
+Mason Tony Mount;3;Chelsea
+Jorge Luiz Frello Jorginho;3;Chelsea
+Axel Tuanzebe;3;Manchester United
+Marcio Rafael Ferreira de Souza;3;Olympiacos
+
+ Tarjetas Rojas 
+Gerard Piqué Bernabéu;1;Barcelona
+Jesús Navas González;1;Sevilla
+Remo Freuler;1;Atalanta
+Erik Sviatchenko;1;Midtjylland
+Sime Vrsaljko;0;Atlético de Madrid
+Germán Valera Karabinaite;0;Tenerife
+Kieran Trippier;0;Atlético de Madrid
+Lucas Sebastián Torreira Di Pascua;0;Atlético de Madrid
+Luis Alberto Suárez Díaz;0;Atlético de Madrid
+Diego Pablo Simeone;0;Atlético de Madrid

@@ -1,0 +1,150 @@
+Tabla de posiciones ; PJ ; G ; E ; P ; GF ; GC ; DF ; Pts;
+Atlético de Madrid;29;20;6;3;51;19;32;66
+Barcelona;29;20;5;4;68;24;44;65
+Real Madrid;29;19;6;4;51;23;28;63
+Sevilla;29;18;4;7;40;21;19;58
+Betis;29;14;4;11;39;42;-3;46
+Villarreal;29;11;13;5;42;31;11;46
+Real Sociedad;28;12;9;7;44;28;16;45
+Celta;29;9;10;10;38;44;-6;37
+Granada;29;10;6;13;34;49;-15;36
+Athletic Bilbao;28;9;8;11;38;32;6;35
+Levante;29;8;11;10;36;39;-3;35
+Valencia;29;8;9;12;35;40;-5;33
+Cádiz;29;8;8;13;26;45;-19;32
+Osasuna;29;7;10;12;23;35;-12;31
+Getafe;29;7;9;13;22;33;-11;30
+Valladolid;29;5;12;12;26;39;-13;27
+Elche;29;5;11;13;26;43;-17;26
+Huesca;29;4;12;13;28;44;-16;24
+Eibar;29;4;11;14;22;35;-13;23
+Alavés;29;5;8;16;24;47;-23;23
+Temporada Regular;-;Fecha 28
+Betis;2; - ;0 ;Levante;
+Athletic Bilbao;1; - ;1 ;Eibar;
+Celta;1; - ;3 ;Real Madrid;
+Huesca;0; - ;0 ;Osasuna;
+Valladolid;1; - ;1 ;Sevilla;
+Getafe;1; - ;1 ;Elche;
+Valencia;2; - ;1 ;Granada;
+Villarreal;2; - ;1 ;Cádiz;
+Atlético de Madrid;1; - ;0 ;Alavés;
+Real Sociedad;1; - ;6 ;Barcelona;
+Temporada Regular;-;Fecha 29
+Levante;0; - ;2 ;Huesca - ; - ;fecha:02/04/2021; hora:16:00:00
+Granada;0; - ;3 ;Villarreal - ; - ;fecha:03/04/2021; hora:09:00:00
+Real Madrid;2; - ;0 ;Eibar - ; - ;fecha:03/04/2021; hora:11:15:00
+Osasuna;0; - ;0 ;Getafe - ; - ;fecha:03/04/2021; hora:13:30:00
+Alavés;1; - ;3 ;Celta - ; - ;fecha:04/04/2021; hora:09:00:00
+Elche;1; - ;1 ;Betis - ; - ;fecha:04/04/2021; hora:11:15:00
+Cádiz;2; - ;1 ;Valencia - ; - ;fecha:04/04/2021; hora:13:30:00
+Sevilla;1; - ;0 ;Atlético de Madrid - ; - ;fecha:04/04/2021; hora:16:00:00
+Barcelona;1; - ;0 ;Valladolid - ; - ;fecha:05/04/2021; hora:16:00:00
+Real Sociedad;; vs ;;Athletic Bilbao - ; - ;fecha:07/04/2021; hora:16:00:00
+Temporada Regular;-;Fecha 30
+Huesca;; vs ;;Elche - ; - ;fecha:09/04/2021; hora:16:00:00
+Getafe;; vs ;;Cádiz - ; - ;fecha:10/04/2021; hora:09:00:00
+Athletic Bilbao;; vs ;;Alavés - ; - ;fecha:10/04/2021; hora:11:15:00
+Eibar;; vs ;;Levante - ; - ;fecha:10/04/2021; hora:13:30:00
+Real Madrid;; vs ;;Barcelona - ; - ;fecha:10/04/2021; hora:16:00:00
+Villarreal;; vs ;;Osasuna - ; - ;fecha:11/04/2021; hora:09:00:00
+Valencia;; vs ;;Real Sociedad - ; - ;fecha:11/04/2021; hora:11:15:00
+Valladolid;; vs ;;Granada - ; - ;fecha:11/04/2021; hora:13:30:00
+Betis;; vs ;;Atlético de Madrid - ; - ;fecha:11/04/2021; hora:16:00:00
+Celta;; vs ;;Sevilla - ; - ;fecha:12/04/2021; hora:16:00:00
+
+ Goleadores 
+Lionel Andrés Messi Cuccittini;23;Barcelona
+Luis Alberto Suárez Díaz;19;Atlético de Madrid
+Gerard Moreno Balaguero;19;Villarreal
+Karim Mostafa Benzema;18;Real Madrid
+Youssef En Nesyri;15;Sevilla
+Alexander Isak;12;Real Sociedad
+José Luis Morales;11;Levante
+Roger Martí Salvador;11;Levante
+Mikel Oyarzábal Ugarte;10;Real Sociedad
+Iago Aspas Juncal;10;Celta
+
+ Asistencias 
+Iago Aspas Juncal;10;Celta
+Marcos Llorente Moreno;8;Atlético de Madrid
+Toni Kroos;8;Real Madrid
+Kieran Trippier;7;Atlético de Madrid
+Lionel Andrés Messi Cuccittini;7;Barcelona
+Jordi Alba;7;Barcelona
+Ángel Martín Correa Martínez;6;Atlético de Madrid
+Antoine Griezmann;6;Barcelona
+Sergio Canales Madrazo;6;Betis
+Jorge de Frutos Sebastián;6;Levante
+
+ Pases 
+Clément Lenglet;1416;1489;95.097;Barcelona
+Frenkie de Jong;1968;2111;93;Barcelona
+Daniel Parejo Muñoz;1666;1783;93;Villarreal
+Sergio Busquets Burgos;1628;1746;93;Barcelona
+Raphaël Xavier Varane;1401;1501;93;Real Madrid
+Toni Kroos;1610;1734;92;Real Madrid
+Jorge Resurrección Merodio;1438;1595;90;Atlético de Madrid
+Luka Modric;1436;1618;88;Real Madrid
+Jordi Alba;1607;1839;87;Barcelona
+Carlos Henrique Casimiro;1315;1507;87;Real Madrid
+
+ Recuperacion 
+Marc Cucurella Saseta;60;Getafe
+Carlos Henrique Casimiro;58;Real Madrid
+Renato Fabrizio Tapia Cortijo;52;Celta
+Guido Rodríguez;51;Betis
+Mikel Merino Zazón;47;Real Sociedad
+Gonzalo Verdú;47;Elche
+Jon Moncayola Tollar;43;Osasuna
+Jens Jonsson;43;Cádiz
+José Raúl Gutiérrez Parejo;43;Elche
+David García Zubiría;42;Osasuna
+
+ Faltas Cometidas 
+Mikel Merino Zazón;68;Real Sociedad
+Lucas Ariel Boyé;64;Elche
+Nabil Fekir;61;Betis
+Brais Méndez Portela;55;Celta
+Renato Fabrizio Tapia Cortijo;54;Celta
+Jaime Mata Arnaiz;53;Getafe
+Yangel Clemente Herrera Ravelo;53;Granada
+Santiago Mina Lorenzo;52;Celta
+Javier Galán Gil;50;Huesca
+Marc Cucurella Saseta;49;Getafe
+
+ Faltas Recibidas 
+Nabil Fekir;79;Betis
+Lucas Ariel Ocampos;69;Sevilla
+Javier Galán Gil;69;Huesca
+Enrique García Martínez;67;Eibar
+Iker Muniain Goñi;66;Athletic Bilbao
+Mauro Wilney Arambarri Rosa;64;Getafe
+Lionel Andrés Messi Cuccittini;64;Barcelona
+Maximiliano Gómez González;58;Valencia
+José Luis Mato Sanmartín;57;Alavés
+Mikel Merino Zazón;56;Real Sociedad
+
+ Tarjetas Amarillas 
+Stefan Savic;13;Atlético de Madrid
+Renato Fabrizio Tapia Cortijo;11;Celta
+Damián Nicolás Suárez Suárez;10;Getafe
+Tomás Pina Isla;10;Alavés
+Allan Romeo Nyom;9;Getafe
+Erick Cathriel Cabaco Almada;9;Getafe
+Guido Rodríguez;9;Betis
+Edgar Antonio Méndez Ortega;9;Alavés
+Florian Grégoire Claude Lejeune;9;Alavés
+Germán Sánchez Barahona;9;Granada
+
+ Tarjetas Rojas 
+José Bordalás Jiménez;2;Getafe
+José Manuel Rodríguez Benito;1;Getafe
+Allan Romeo Nyom;1;Getafe
+Jaime Mata Arnaiz;1;Getafe
+Djené Dakonam Ortega;1;Getafe
+Íñigo Martínez Berridi;1;Athletic Bilbao
+Martín Montoya Torralbo;1;Betis
+Aissa Mandi;1;Betis
+Emerson Aparecido Leite De Souza Junior;1;Betis
+Roberto Suárez Pier;1;Levante
